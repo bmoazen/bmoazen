@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bmoazen
-- 👀 I’m interested in using the skills I've acquired during my science and teaching career amd applying them to the field of data science and analytics.
-- 🌱 I’m currently learning VBA, Python, and SQL in a Vanderbilt University Data Analytics Bootcamp.
+- 👀 I’m interested in using the skills I've acquired during my science and teaching career and applying them to the field of data science and analytics.
+- 🌱 I’m currently learning VBA, Python, SQL, JavaScript, and Tableau in a Vanderbilt University Data Analytics Bootcamp.
 - 📫 How to reach me: brianmoazen@gmail.com
 
 <!---
